@@ -1,3 +1,5 @@
+package edu.neu.csye7374;
+
 class Restaurant {
     private MenuState currentState;
 
