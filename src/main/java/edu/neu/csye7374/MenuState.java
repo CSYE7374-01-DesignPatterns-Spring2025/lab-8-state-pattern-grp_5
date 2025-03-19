@@ -1,0 +1,3 @@
+interface MenuState{
+void showMenu();
+}
