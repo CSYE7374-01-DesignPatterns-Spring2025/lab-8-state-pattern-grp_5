@@ -1,6 +1,4 @@
-package edu.neu.csye7374;
-
-public class LunchState {
+class LunchState implements MenuState {
     @Override
     public void showMenu() {
         System.out.println("Lunch Menu:");
