@@ -1,3 +1,3 @@
-interface MenuState{
-void showMenu();
+interface MenuState {
+    void showMenu();
 }
