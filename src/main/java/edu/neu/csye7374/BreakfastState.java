@@ -1,3 +1,5 @@
+package edu.neu.csye7374;
+
 public class BreakfastState implements MenuState {
     @Override
     public void showMenu() {

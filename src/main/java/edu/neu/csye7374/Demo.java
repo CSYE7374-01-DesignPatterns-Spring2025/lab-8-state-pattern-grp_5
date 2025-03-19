@@ -1,3 +1,5 @@
+package edu.neu.csye7374;
+
 public class Demo {
     public static void DemoRun() {
         Restaurant restaurant = new Restaurant();
